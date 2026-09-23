@@ -1,0 +1,3 @@
+flask>=2.2
+pillow>=9.1
+rawpy>=0.18   # optional: only needed for camera RAW files
