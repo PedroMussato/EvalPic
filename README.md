@@ -1,4 +1,4 @@
-# evalpic
+# EvalPic
 
 A small local web app for **manually evaluating and ranking photographs**.
 
